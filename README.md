@@ -5,7 +5,7 @@
 Студентка 2 курса направления **"Прикладная информатика"**.  
 Увлекаюсь веб-разработкой и программированием.
 
-![Код](https://media.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif)
+![Печатает](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
 
 ---
 
