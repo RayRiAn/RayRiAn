@@ -1,16 +1,18 @@
-## Hi there 👋
+# 👋 Привет! Я Анифе Мамутова
 
-<!--
-**RayRiAn/RayRiAn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### 🛠️ Мой стек:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![HTML5](https://img.shields.io/badge/-HTML5-4FC3F7?style=plastic&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-4FC3F7?style=plastic&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-4FC3F7?style=plastic&logo=javascript&logoColor=white)
+![C++](https://img.shields.io/badge/-C++-4FC3F7?style=plastic&logo=cplusplus&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-4FC3F7?style=plastic&logo=python&logoColor=white)
+
+---
+
+### 📫 Связаться со мной:
+
+[![Telegram](https://img.shields.io/badge/-Telegram-4FC3F7?style=plastic&logo=telegram&logoColor=white)](https://t.me/Anxt_vi)
+[![Email](https://img.shields.io/badge/-Email-4FC3F7?style=plastic&logo=gmail&logoColor=white)](mailto:anifemamutova112008@gmail.com)
