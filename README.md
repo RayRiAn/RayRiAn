@@ -30,23 +30,12 @@
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/HTML5-0d1117?style=flat-square&logo=html5&logoColor=9b5de5" alt="HTML5" />
-<img src="https://img.shields.io/badge/CSS3-0d1117?style=flat-square&logo=css3&logoColor=9b5de5" alt="CSS3" />
+<img src="https://img.shields.io/badge/HTML-0d1117?style=flat-square&logo=html5&logoColor=9b5de5" alt="HTML5" />
+<img src="https://img.shields.io/badge/CSS-0d1117?style=flat-square&logo=css3&logoColor=9b5de5" alt="CSS3" />
 <img src="https://img.shields.io/badge/JavaScript-0d1117?style=flat-square&logo=javascript&logoColor=9b5de5" alt="JavaScript" />
 <br>
 <img src="https://img.shields.io/badge/C++-0d1117?style=flat-square&logo=c%2B%2B&logoColor=9b5de5" alt="C++" />
 <img src="https://img.shields.io/badge/Python-0d1117?style=flat-square&logo=python&logoColor=9b5de5" alt="Python" />
-
-</div>
-
----
-
-### 📊 Статистика GitHub
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=RayRiAn&show_icons=true&theme=radical&bg_color=0d1117&title_color=9b5de5&text_color=c9d1d9&icon_color=00f5d4&border_color=9b5de5" alt="GitHub Stats" width="48%"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RayRiAn&layout=compact&theme=radical&bg_color=0d1117&title_color=9b5de5&text_color=c9d1d9&border_color=9b5de5" alt="Top Languages" width="48%"/>
 
 </div>
 
