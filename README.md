@@ -53,6 +53,14 @@
 
 ---
 
+### 👀 Мои посетители
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=RayRiAn&color=b57bee&style=for-the-badge&label=ПРОСМОТРЫ" alt="Visitor Counter" />
+</div>
+
+---
+
 <!-- ФИНАЛЬНЫЙ БЛОК (Гифка + Подпись) -->
 <div align="center">
 
