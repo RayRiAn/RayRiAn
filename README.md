@@ -1,10 +1,10 @@
 <div align="center">
 
-<!-- Анимированный баннер (Океан + Волны) -->
+<!-- Анимированный баннер (Океан) -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0077b6&height=200&section=header&text=RayRiAn&fontSize=80&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Море&descAlignY=58&descAlign=50" width="100%"/>
 
-<!-- Анимированный текст (Неоновый голубой) -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=700&size=28&duration=3000&pause=1000&color=00F5D4&center=true&vCenter=true&width=600&lines=Привет!+Я+Анифе+Мамутова;Начинающий+веб-разработчик;Студентка+2+курса;Погружаюсь+в+код" alt="Typing SVG" /></a>
+<!-- Анимированный текст (Затемненный бирюзовый) -->
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=700&size=24&duration=3000&pause=1000&color=008FA8&center=true&vCenter=true&width=800&lines=Привет!+Я+Анифе+Мамутова;Начинающий+веб-разработчик;Студентка+2+курса;Погружаюсь+в+код" alt="Typing SVG" /></a>
 
 <!-- Кнопки контактов (Темный фон, голубые иконки) -->
 <p>
@@ -21,8 +21,7 @@
 
 - 💌 Студентка 2 курса направления **«Прикладная информатика»**
 - 💻 Увлекаюсь веб-разработкой и программированием
-- 🌊 Обожаю море и всё, что с ним связано
-- 🌱 Сейчас учу **HTML, CSS, JavaScript**
+- 🌊 Сейчас учу **HTML, CSS, JavaScript**
 - 🎯 Цель: стать крутым frontend-разработчиком
 
 ---
@@ -51,16 +50,13 @@
 
 ---
 
-<!-- ФИНАЛЬНЫЙ БЛОК (Волна + Гифка + Подпись) -->
+<!-- ФИНАЛЬНЫЙ БЛОК (Без волны, с неоновым текстом) -->
 <div align="center">
-
-<!-- Морская волна-разделитель -->
-<img src="https://capsule-render.vercel.app/api?type=wave&color=00b4d8&height=100&section=footer" width="100%"/>
 
 <br>
 
-<!-- Анимированная гифка -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=900&size=35&duration=2000&pause=500&color=00F5D4&center=true&vCenter=true&width=400&height=100&lines=EAT;SLEEP;CODE;REPEAT" alt="Eat Sleep Code Repeat" />
+<!-- Анимированная гифка (Затемненная) -->
+<img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=900&size=35&duration=2000&pause=500&color=008FA8&center=true&vCenter=true&width=600&height=100&lines=EAT;SLEEP;CODE;REPEAT" alt="Eat Sleep Code Repeat" />
 
 <br>
 
